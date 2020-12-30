@@ -1,6 +1,8 @@
 #!/bin/bash
+
 clear
-apt update
+
+apt update && apt upgrade -y
 
 pkg install toilet -y
 
@@ -11,3 +13,4 @@ pkg install sl -y
 pkg install w3m -y
 
 clear 
+
