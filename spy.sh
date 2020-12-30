@@ -14,3 +14,4 @@ pkg install w3m -y
 
 clear 
 
+sl
