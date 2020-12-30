@@ -68,7 +68,7 @@ echo
 00) exit
 ;;
 
-*) echo "Pilih Sesuai List Anjenk"
+*) echo """installing sussfull thanks for using """
 esac
 done
 done
