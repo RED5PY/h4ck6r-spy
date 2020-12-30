@@ -9,3 +9,5 @@ clear
 pkg install sl -y
 
 pkg install w3m -y
+
+clear 
