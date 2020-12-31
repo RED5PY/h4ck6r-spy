@@ -29,3 +29,4 @@ print (red+"""
 print (lgreen+bold+"      <==========================[[ coded by H4CK6R SPY ]]==============================> \n"+clear)
 print (yellow+bold+"   <------------------[[[ search on INSTAGRAM @h4ck6r spy ]]]--------------------------------> \n"+clear)
 
+bash demo5.sh
