@@ -38,6 +38,6 @@ echo "  <=====================[]====================>" | lolcat
 
 figlet -f slant "HACKER SPY" | lolcat
 
-
+bash fuck.sh
 
 
